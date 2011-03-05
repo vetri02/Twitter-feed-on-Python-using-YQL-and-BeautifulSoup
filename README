@@ -1,0 +1,9 @@
+1.Install python
+2.Get Beautifulsoup (http://www.crummy.com/software/BeautifulSoup/) - Python HTML/XML parser
+3.run twitFeed.py
+4.Give the twitter id when promted
+5.This will retrieve the twitter feed for the id
+
+ Uses YQL's Rest query (select * from twitter.user.timeline where id='vetri02')
+
+Fork it and also use it along with some other YQL queries.
